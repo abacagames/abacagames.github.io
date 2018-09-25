@@ -331,7 +331,7 @@ class="contact__form-submit" value="Contact Form" type="submit"></a><!--/form-->
     <!-- $Page footer-->
     <footer class="page-footer">
       <div class="container"><span class="page-footer__copyright">© Copyright
-          2017 Abaca Games</span><a class="page-footer__gotop js-anchor" href="#home">Go
+          2018 Abaca Games</span><a class="page-footer__gotop js-anchor" href="#home">Go
           to top</a></div>
     </footer>
     <script src="static/js/body.min.js"></script>
