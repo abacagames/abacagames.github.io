@@ -141,22 +141,10 @@ chosen link or button. -->
 	</div>
 </div>
 
-<div class="team__member"><img src="static/images/avaDanny.jpg" alt="">
-    <div class="team__member-info">
-     	<h3 class="team__member-name">Danny Vincenz </h3><span class="team__member-role">Lead Digital Artist</span>
-	<p class="team__member-descr"> Danny designs Abaca Games' logo, brand and game art. Check out <a class="promo__descrlink" href="http://www.danielvincenz.com/" >Danny's website </a> for more of his awesome art and videogames. </p>
-	</div><!--ul class="team__member-soc"><li><a class="team__member-icon fb" href="#">My Facebook</a></li><li><a class="team__member-icon tw" href="#">Follow me on twitter</a></li><li><a class="team__member-icon gplus" href="#">My Google+</a></li><li><a class="team__member-icon db" href="#">I am on Dribble</a></li></ul-->
-</div>
-<!--<div class="team__member">
-    <div class="team__member-info">
-     	<h3 class="team__member-name"> Andrew Lipian </h3><span class="team__member-role"> 10 Degrees Music Composer</span>
-	<p class="team__member-descr"> Andrew is bringing his unique skillset as a classically trained singer, opera director and video game music composer to make 10 Degrees sound amazing. </p>
-	</div>
-</div>-->
 <div class="team__member">
 	<div class="team__member-info">		
- 		<h3 class="team__member-name">Deric Miller</h3><span class="team__member-role">10 Degrees Narrative Consultant </span>
-      <p class="team__member-descr"> Deric is refining the writting that is central to the 10 Degrees game. </p>
+ 		<h3 class="team__member-name">Deric Miller</h3><span class="team__member-role">Narrative Designer </span>
+      <p class="team__member-descr"> Deric is creating the prose that is central to the Climate Crisis game. </p>
 	</div>
 </div>	
 
@@ -166,6 +154,12 @@ chosen link or button. -->
       
       <!--ul class="team__member-soc"><li><a class="team__member-icon fb" href="#">My Facebook</a></li><li><a class="team__member-icon tw" href="#">Follow me on twitter</a></li><li><a class="team__member-icon gplus" href="#">My Google+</a></li><li><a class="team__member-icon db" href="#">I am on Dribble</a></li></ul-->
 
+<div class="team__member"><img src="static/images/avaDanny.jpg" alt="">
+    <div class="team__member-info">
+     	<h3 class="team__member-name">Danny Vincenz </h3><span class="team__member-role">Lead Digital Artist</span>
+	<p class="team__member-descr"> Danny designed Abaca Game's logo, brand and game art. Check out <a class="promo__descrlink" href="http://www.danielvincenz.com/" >Danny's website </a> for more of his awesome art and videogames. </p>
+	</div><!--ul class="team__member-soc"><li><a class="team__member-icon fb" href="#">My Facebook</a></li><li><a class="team__member-icon tw" href="#">Follow me on twitter</a></li><li><a class="team__member-icon gplus" href="#">My Google+</a></li><li><a class="team__member-icon db" href="#">I am on Dribble</a></li></ul-->
+</div>
 	 <!--<img src="static/images/ava3.jpg" alt="Daniel Doe">--> 
 <!-- <div class="team__member">
     <div class="team__member-info">
@@ -185,9 +179,8 @@ chosen link or button. -->
    
 </section><!-- $Contact section--><section class="contact" id="contact"><div class="container">
     <h2 class="contact__title">Contact</h2>
-    <p class="contact__descr">Have any comments or suggestions? We would love to hear them...</p>
-    <h2 class="promo__title"> <button id=¨signupbutton¨ class= "promo__descrlink" style="font-size:33px; font-family: 'Lato',sans-serif; font-weigth: lighter;  color: #FFFFFF; background-color:#57BA47; width: 660px; padding: 10px 0px" ><a href="https://docs.google.com/forms/d/1wP8ya4zytYHk4rLz7jcQ6b-OzA5DstGMlzcuTlNDbf0/prefill"> Contact Form</a></button></h2>
-    <!--form class="contact__form" target="_top" action="MAILTO: abacagames@gmail.com" method="post" style= "margin-left: 400 px"><input class="contact__form-input" id="name" type="text" name="name" placeholder="Your name"> <input class="contact__form-input" id="email" type="email" name="email" placeholder="Your email"><textarea class="contact__form-tarea" id="message" name="message" placeholder="Your message"></textarea--><a href= "https://docs.google.com/forms/d/1wP8ya4zytYHk4rLz7jcQ6b-OzA5DstGMlzcuTlNDbf0/prefill" ><input class="contact__form-submit" type="submit" value="Contact Form"></a><!--/form-->
+    <p class="contact__descr">Have any comments or suggestions? We would love to hear them..</p>
+    <form class="contact__form" target="_top" action="MAILTO: abacagames@gmail.com" method="post"><input class="contact__form-input" id="name" type="text" name="name" placeholder="Your name"> <input class="contact__form-input" id="email" type="email" name="email" placeholder="Your email"><textarea class="contact__form-tarea" id="message" name="message" placeholder="Your message"></textarea><input class="contact__form-submit" type="submit" value="Submit"></form>
        
     <div class="contact__card vcard"><h3 class="contact__card-title">Information</h3><div class="contact__card-item place"><div class="fn org">Abaca Games</div><div class="adr"><div class="street-address">440 Church St</div><span class="locality">Ann Arbor</span>,<span class="region">Michigan 48109</span></div></div>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -201,6 +194,6 @@ chosen link or button. -->
     
     
     
-<!--div class="contact__card-item tel">+444<span class="type">&nbsp;(Phone)&nbsp;</span>123456</div><div class="contact__card-item fax tel">+123<span class="type">&nbsp;(FAX)&nbsp;</span>0011223</div--><!--a class="contact__card-item email" href="#">info@companyname.com</a--></div>
+<!--div class="contact__card-item tel">+444<span class="type">&nbsp;(Phone)&nbsp;</span>123456</div><div class="contact__card-item fax tel">+123<span class="type">&nbsp;(FAX)&nbsp;</span>0011223</div><!--a class="contact__card-item email" href="#">info@companyname.com</a--></div>
     </div> </section><!-- $Page footer--><footer class="page-footer">
       <div class="container"><span class="page-footer__copyright">&copy; Copyright 2017 Abaca Games</span><a class="page-footer__gotop js-anchor" href="#home">Go to top</a></div></footer><script src="static/js/body.min.js"></script></body></html>
