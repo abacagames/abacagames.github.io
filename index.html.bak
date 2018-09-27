@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Home | Impact Video Game</title>
+    <title>Home | Abaca Games</title>
     <meta name="description" content="Page-specific description">
     <meta name="keywords" content="Page-specific keywords">
     <link rel="shortcut icon" href="favicon.ico">
@@ -59,9 +59,9 @@ In your html page, add the snippet and callgoog_report_conversion when someone c
 
 </script> <div class="page-header__logo">
           <h1 style="text-transform: none;
-  font-style: italic;  color: #57BA47;"><!-- implement this color for all other green colors -->&nbsp;&nbsp;&nbsp;Abaca
-            Games<!--Simile Media--></h1>
-          &nbsp;<span>Social Impact Venture<!--Simile Media project--></span></div>
+  font-style: italic;  color: #57BA47;"><!-- implement this color for all other green colors -->&nbsp;&nbsp;&nbsp;&nbsp;
+            Abaca Games<!--Simile Media--></h1>
+          &nbsp; <span>Indie Video Game Studio<!--Simile Media project--></span></div>
         <nav class="page-header__nav js-nav">
           <ul>
             <li><a class="page-header__nav-link js-anchor js-link is-active" href="#home">Home</a></li>
@@ -69,6 +69,8 @@ In your html page, add the snippet and callgoog_report_conversion when someone c
                 </a></li>
             <li><a class="page-header__nav-link js-anchor js-link" href="#team">Team</a></li>
             <li><a class="page-header__nav-link js-anchor js-link" href="#contact">Contact</a></li>
+            <li><a class="page-header__nav-link js-anchor js-link" href="http://abacagames.github.io/pressrelease">
+                Press Release</a></li>
             <!--li><a class="page-header__nav-link js-anchor js-link" href="recruitment.html">Join Us</a></li-->
           </ul>
         </nav>
@@ -296,37 +298,38 @@ In your html page, add the snippet and callgoog_report_conversion when someone c
         <p class="contact__descr">Have any comments or suggestions? We would
           love to hear them...</p>
         <!--form class="contact__form" target="_top" action="MAILTO: abacagames@gmail.com" method="post" style= "margin-left: 400 px">-->
-        <button id="¨signupbutton¨" class="promo__descrlink" style="font-size:20px; font-family: 'Lato',sans-serif; font-weigth: lighter;  color: #FFFFFF; background-color:#57BA47; width: 300px; padding: 10px 0px; margin-left:150px"
-
-          href="https://docs.google.com/forms/d/e/1FAIpQLScmPGkc0Se8IRsgDLOWYl5rd0h0-sI7gVMLSeWEov8aQGsvjQ/viewform">
-          Click here for contact form 
-        </button>
-        <a  href="https://docs.google.com/forms/d/e/1FAIpQLScmPGkc0Se8IRsgDLOWYl5rd0h0-sI7gVMLSeWEov8aQGsvjQ/viewform">Click here for contact form</a>
-        <!--input class="contact__form-input" id="name" type="text" name="name" placeholder="Your name"> <input class="contact__form-input" id="email" type="email" name="email" placeholder="Your email"><textarea class="contact__form-tarea" id="message" name="message" placeholder="Your message"></textarea-->
-        <!--a href="https://docs.google.com/forms/d/1wP8ya4zytYHk4rLz7jcQ6b-OzA5DstGMlzcuTlNDbf0/prefill"><input
+        <!--button id="¨signupbutton¨" class="promo__descrlink" style="font-size:20px; font-family: 'Lato',sans-serif; font-weigth: lighter;  color: #FFFFFF; background-color:#57BA47; width: 300px; padding: 10px 0px; margin-left:150px"
+          href="https://docs.google.com/forms/d/e/1FAIpQLScmPGkc0Se8IRsgDLOWYl5rd0h0-sI7gVMLSeWEov8aQGsvjQ/viewform">          Click here for contact form         </button-->
+        <center>
+          <h2 style="width: 287px; height: 27px; margin-top: -37px;"> <a href="https://docs.google.com/forms/d/e/1FAIpQLScmPGkc0Se8IRsgDLOWYl5rd0h0-sI7gVMLSeWEov8aQGsvjQ/viewform">Click
+              here for contact form </a> </h2>
+        </center>
+        <center>
+          <!--input class="contact__form-input" id="name" type="text" name="name" placeholder="Your name"> <input class="contact__form-input" id="email" type="email" name="email" placeholder="Your email"><textarea class="contact__form-tarea" id="message" name="message" placeholder="Your message"></textarea-->
+          <!--a href="https://docs.google.com/forms/d/1wP8ya4zytYHk4rLz7jcQ6b-OzA5DstGMlzcuTlNDbf0/prefill"><input
 class="contact__form-submit" value="Contact Form" type="submit"></a--><!--/form-->
-        <div class="contact__card vcard">
-          <h3 class="contact__card-title">Information</h3>
+          <!--div class="contact__card vcard"-->
+          <h3 class="contact__card-title" style="margin-top: 45px; height: 5px;">&nbsp;Information</h3>
+          Abaca Games<br>
+          440 Church St
           <div class="contact__card-item place">
-            <div class="fn org">Abaca Games</div>
-            <div class="adr">
-              <div class="street-address">440 Church St</div>
-              <span class="locality">Ann Arbor</span>, <span class="region">Michigan
+            <div class="adr"><span class="locality">Ann Arbor</span>, <span class="region">Michigan
                 48109</span></div>
-          </div>
-          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-            <input name="cmd" value="_s-xclick" type="hidden"> <input name="encrypted"
+            <!--/div-->
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+              <input name="cmd" value="_s-xclick" type="hidden"> <input name="encrypted"
 
-              value="-----BEGIN PKCS7-----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-----END PKCS7-----
+                value="-----BEGIN PKCS7-----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-----END PKCS7-----
 " type="hidden"> <input src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"
 
-              name="submit" alt="PayPal - The safer, easier way to pay online!"
+                name="submit" alt="PayPal - The safer, easier way to pay online!"
 
-              border="0" type="image"> <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
+                border="0" type="image"> <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
 
-              border="0" height="1" width="1"> </form>
-          <!--div class="contact__card-item tel">+444<span class="type">&nbsp;(Phone)&nbsp;</span>123456</div><div class="contact__card-item fax tel">+123<span class="type">&nbsp;(FAX)&nbsp;</span>0011223</div--><!--a class="contact__card-item email" href="#">info@companyname.com</a--></div>
-      </div>
+                border="0" height="1" width="1"> </form>
+          </div>
+        </center>
+        <!--div class="contact__card-item tel">+444<span class="type">&nbsp;(Phone)&nbsp;</span>123456</div><div class="contact__card-item fax tel">+123<span class="type">&nbsp;(FAX)&nbsp;</span>0011223</div--><!--a class="contact__card-item email" href="#">info@companyname.com</a--></div>
     </section>
     <!-- $Page footer-->
     <footer class="page-footer">
