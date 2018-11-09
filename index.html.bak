@@ -69,8 +69,8 @@ In your html page, add the snippet and callgoog_report_conversion when someone c
                 </a></li>
             <li><a class="page-header__nav-link js-anchor js-link" href="#team">Team</a></li>
             <li><a class="page-header__nav-link js-anchor js-link" href="#contact">Contact</a></li>
-            <li><a class="page-header__nav-link js-anchor js-link" href="http://abacagames.github.io/pressrelease">
-                Press Release</a></li>
+            <!-- <li><a class="page-header__nav-link js-anchor js-link" href="http://abacagames.github.io/pressrelease">
+                Press Release</a></li> -->
             <!--li><a class="page-header__nav-link js-anchor js-link" href="recruitment.html">Join Us</a></li-->
           </ul>
         </nav>
@@ -268,27 +268,23 @@ In your html page, add the snippet and callgoog_report_conversion when someone c
           </div>
         </div>
         <!--div class="team__member"><img src="static/images/avaDanny.jpg" alt="">
-          <div class="team__member-info">
-            <h3 class="team__member-name">Danny Vincenz </h3>
-            <span class="team__member-role">Lead Digital Artist</span>
-            <p class="team__member-descr"> Danny designs Abaca Games' logo,
-              brand and game art. Check out <a class="promo__descrlink" href="http://www.danielvincenz.com/">Danny's
-                website </a> for more of his awesome art and videogames. </p>
+          <div class="team__member-info">            <h3 class="team__member-name">Danny Vincenz </h3>
+            <span class="team__member-role">Lead Digital Artist</span>            <p class="team__member-descr"> Danny designs Abaca Games' logo,
+              brand and game art. Check out <a class="promo__descrlink" href="http://www.danielvincenz.com/">Danny's                website </a> for more of his awesome art and videogames. </p>
           </div-->
-          <!--ul class="team__member-soc"><li><a class="team__member-icon fb" href="#">My Facebook</a></li><li><a class="team__member-icon tw" href="#">Follow me on twitter</a></li><li><a class="team__member-icon gplus" href="#">My Google+</a></li><li><a class="team__member-icon db" href="#">I am on Dribble</a></li></ul-->
-        </div>
-        <!--<div class="team__member">
-    <div class="team__member-info">     	<h3 class="team__member-name"> Andrew Lipian </h3><span class="team__member-role"> 10 Degrees Music Composer</span>	<p class="team__member-descr"> Andrew is bringing his unique skillset as a classically trained singer, opera director and video game music composer to make 10 Degrees sound amazing. </p>	</div></div>-->
-        <!--div class="team__member-info">
-        <h3 class="team__member-name">Jatin  Gupta </h3><span class="team__member-role">Cofounder, User Experience </span>      <p class="team__member-descr"> Jatin is leading the design process. Jatin worked  creating software and video games before  studying Human-Computer Interaction at UMich. </p></div-->
         <!--ul class="team__member-soc"><li><a class="team__member-icon fb" href="#">My Facebook</a></li><li><a class="team__member-icon tw" href="#">Follow me on twitter</a></li><li><a class="team__member-icon gplus" href="#">My Google+</a></li><li><a class="team__member-icon db" href="#">I am on Dribble</a></li></ul-->
-        <!--<img src="static/images/ava3.jpg" alt="Daniel Doe">-->
-        <!-- <div class="team__member">
-    <div class="team__member-info">      <h3 class="team__member-name">Michael Ellis</h3><span class="team__member-role"> Lead Audio and Visual Artist </span>      <p class="team__member-descr"> Michael is a computer science student with video game art and programming experience. He is a talented artist who will likely be an important part of the game's visual art direction</p>    </div></div>-->
-        <!--ul class="team__member-soc"><li><a class="team__member-icon fb" href="#">My Facebook</a></li><li><a class="team__member-icon tw" href="#">Follow me on twitter</a></li><li><a class="team__member-icon gplus" href="#">My Google+</a></li><li><a class="team__member-icon db" href="#">I am on Dribble</a></li></ul-->
-        <!--div class="team__member">
-    <div class="team__member-info">     	<h3 class="team__member-name">Justine Smith </h3><span class="team__member-role">graphic designer</span>      <p class="team__member-descr"> Justine is a recent Stamps Graduate who will design the start-up's logo and brand. <a class="promo__descrlink" href="justart.us" >Justine's website </a> showcases the impressive breadth and depth of her art. </p></div><ul class="team__member-soc"><li><a class="team__member-icon fb" href="#">My Facebook</a></li><li><a class="team__member-icon tw" href="#">Follow me on twitter</a></li><li><a class="team__member-icon gplus" href="#">My Google+</a></li><li><a class="team__member-icon db" href="#">I am on Dribble</a></li></ul></div-->
       </div>
+      <!--<div class="team__member">
+    <div class="team__member-info">     	<h3 class="team__member-name"> Andrew Lipian </h3><span class="team__member-role"> 10 Degrees Music Composer</span>	<p class="team__member-descr"> Andrew is bringing his unique skillset as a classically trained singer, opera director and video game music composer to make 10 Degrees sound amazing. </p>	</div></div>-->
+      <!--div class="team__member-info">
+        <h3 class="team__member-name">Jatin  Gupta </h3><span class="team__member-role">Cofounder, User Experience </span>      <p class="team__member-descr"> Jatin is leading the design process. Jatin worked  creating software and video games before  studying Human-Computer Interaction at UMich. </p></div-->
+      <!--ul class="team__member-soc"><li><a class="team__member-icon fb" href="#">My Facebook</a></li><li><a class="team__member-icon tw" href="#">Follow me on twitter</a></li><li><a class="team__member-icon gplus" href="#">My Google+</a></li><li><a class="team__member-icon db" href="#">I am on Dribble</a></li></ul-->
+      <!--<img src="static/images/ava3.jpg" alt="Daniel Doe">-->
+      <!-- <div class="team__member">
+    <div class="team__member-info">      <h3 class="team__member-name">Michael Ellis</h3><span class="team__member-role"> Lead Audio and Visual Artist </span>      <p class="team__member-descr"> Michael is a computer science student with video game art and programming experience. He is a talented artist who will likely be an important part of the game's visual art direction</p>    </div></div>-->
+      <!--ul class="team__member-soc"><li><a class="team__member-icon fb" href="#">My Facebook</a></li><li><a class="team__member-icon tw" href="#">Follow me on twitter</a></li><li><a class="team__member-icon gplus" href="#">My Google+</a></li><li><a class="team__member-icon db" href="#">I am on Dribble</a></li></ul-->
+      <!--div class="team__member">
+    <div class="team__member-info">     	<h3 class="team__member-name">Justine Smith </h3><span class="team__member-role">graphic designer</span>      <p class="team__member-descr"> Justine is a recent Stamps Graduate who will design the start-up's logo and brand. <a class="promo__descrlink" href="justart.us" >Justine's website </a> showcases the impressive breadth and depth of her art. </p></div><ul class="team__member-soc"><li><a class="team__member-icon fb" href="#">My Facebook</a></li><li><a class="team__member-icon tw" href="#">Follow me on twitter</a></li><li><a class="team__member-icon gplus" href="#">My Google+</a></li><li><a class="team__member-icon db" href="#">I am on Dribble</a></li></ul></div-->
     </section>
     <!-- $Contact section-->
     <section class="contact" id="contact">
