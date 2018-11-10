@@ -116,14 +116,16 @@ In your html page, add the snippet and callgoog_report_conversion when someone c
     <!-- $Portfolio section--><!--section class="portfoliodecoy js-portfoliodecoy" id="portfoliodecoy"></section-->
     <section class="portfolio js-portfolio" id="portfolio">
       <div class="container">
+        <h2 class="portfolio__title"></h2>
         <h2 class="portfolio__title">In Production: 10 Degrees</h2>
+        <h2 class="portfolio__title">Platform: Mobile</h2>
         <p class="portfolio__descr"> In this text-based role-playing game only
           you can save the world. Every hero starts as an everyday person.
           Anyone can make the right choices and take the risks required to be a
           true hero. Save the Great Lakes from the toxic algae! Bigger
           challenges await. Do you have what it takes? <a class="promo__descrlink2"
             href="https://docs.google.com/forms/d/e/1FAIpQLSdLxhOtRvaxjdOnYSlIjGe8JpPo7sBZrZFMsGS4F8rgpHOaWw/viewform">
-            Sign up for early access here!</a> Platform: Mobile</p>
+            Sign up for early access here!</a> </p>
         <!--h2 class="portfolio__title">Greenhouse Gas Ninja</h2>
     <p class="portfolio__descr"> Why slice fruit when you can slice harmful greenhouse gases? In this mobile swipe game you have to prevent the greenhouse gases from ruining your agricultural crops. Get powerups based on real climate change mitigation actions. In game purchases will go to <a class="promo__descrlink"  href="tmalliance.org"> Third Millennium Alliance</a>. In game purchases can alternatively be bought with pledges to change your real-life habits that will save as much greenhouse gases from the atmosphere as your in game donation. Platform: Mobile</p>        <h2 class="portfolio__title">Forest of the Jama- Coaque</h2>    <p class="portfolio__descr"> Forest of the Jama- Coaque is focused  being grounded in ecology so that in order to advance in the game you learn real strategies that enhance  forest health and productivity. This means players get a intuitive sense of key concepts in conservation like the importance of biodiversity to ecological resilience as well as the difficulty of regenerating a forest to a pre-disturbance state in addition to the importance of corridors and fauna to forest stability.  In addition to building ecologically sound forests, the player must explore the forest floor on foot to find rare items and power ups before lumberjacks harvest the forest  to depletion. Platform: Desktop </p>    <iframe style="font-size:3.8vmax;" frameborder="0" scrolling="no" width="320" height="240" src="https://www.pollshare.com/embed/3442"></iframe-->
         <h2 class="portfolio__title">Gaming for Good</h2>
