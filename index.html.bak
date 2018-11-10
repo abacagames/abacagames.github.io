@@ -293,6 +293,10 @@ class="contact__form-submit" value="Contact Form" type="submit"></a--><!--/form-
           <div class="contact__card-item place">
             <div class="adr"><span class="locality">Ann Arbor</span>, <span class="region">Michigan
                 48109</span></div>
+            <a href="https://twitter.com/AbacaGames"><img src="file:///C:/Users/PV-Security/Pictures/twitter%20logo.png"
+                alt="" title="Twitter Link" style="width: 104px; height: 87px;"></a><a
+              href="https://www.facebook.com/abacagames"><img src="file:///C:/Users/PV-Security/Pictures/facebook%20logo.png"
+                alt="" title="Facebook Link" style="width: 84px; height: 84px;"></a>
             <!--/div-->
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
               <input name="cmd" value="_s-xclick" type="hidden"> <input name="encrypted"
@@ -300,7 +304,8 @@ class="contact__form-submit" value="Contact Form" type="submit"></a--><!--/form-
 " type="hidden"> <input src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"
                 name="submit" alt="PayPal - The safer, easier way to pay online!"
                 type="image" border="0"> <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
-                width="1" height="1" border="0"> </form>
+                width="1" height="1" border="0"><br>
+            </form>
           </div>
         </center>
         <!--div class="contact__card-item tel">+444<span class="type">&nbsp;(Phone)&nbsp;</span>123456</div><div class="contact__card-item fax tel">+123<span class="type">&nbsp;(FAX)&nbsp;</span>0011223</div--><!--a class="contact__card-item email" href="#">info@companyname.com</a--></div>
