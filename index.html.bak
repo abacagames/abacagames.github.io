@@ -297,10 +297,10 @@ class="contact__form-submit" value="Contact Form" type="submit"></a--><!--/form-
               href="https://www.facebook.com/abacagames"><img src="file:///C:/Users/PV-Security/Pictures/facebook%20logo.png"
                 alt="" title="Facebook Link" style="width: 84px; height: 84px;"><br>
             </a></div>
-          <div class="contact__card-item place"><a href="https://twitter.com/AbacaGames">Twitter
-              and Facebook<br>
+          <div class="contact__card-item place"><a href="https://facebook.com/AbacaGames">&nbsp;
+              &nbsp; Twitter &nbsp; &nbsp; &nbsp; &nbsp; Facebook<br>
             </a></div>
-          <div class="contact__card-item place"><a href="https://www.facebook.com/abacagames"></a>
+          <div class="contact__card-item place">
             <!--/div-->
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
               <input name="cmd" value="_s-xclick" type="hidden"> <input name="encrypted"
