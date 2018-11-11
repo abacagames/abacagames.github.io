@@ -297,12 +297,11 @@ class="contact__form-submit" value="Contact Form" type="submit"></a--><!--/form-
                   target="_blank">Twitter</a> and <a href="https://www.facebook.com/abacagames"
                   target="_blank">Facebook</a><br>
               </span></div>
-            &nbsp;<a href="https://twitter.com/abacagames" target="_blank"><img
-                src="file:///C:/Users/PV-Security/Documents/abacagames.github.io/static/images/twitter%20logo.jpg"
-                title="Twitter Link" style="width: 106px; height: 106px;"></a><a
-              href="https://www.facebook.com/abacagames" target="_blank"><img src="file:///C:/Users/PV-Security/Documents/abacagames.github.io/static/images/facebook%20logo.jpg"
-                alt="" title="Facebook Logo" style="width: 106px; height: 106px;"></a>
-          </div>
+            &nbsp;<a href="https://twitter.com/abacagames" target="_blank"></a><a
+              href="https://twitter.com/AbacaGames"><img src="static/images/twitter%20logo.jpg"
+                alt="" title="Twitter Logo" style="width: 100px; height: 98px;">&nbsp;
+              </a><a href="https://www.facebook.com/abacagames"><img src="static/images/facebook%20logo.jpg"
+                alt="" title="Facebook Logo" style="width: 100px; height: 100px;"></a></div>
           <div class="contact__card-item place">
             <!--/div-->
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
