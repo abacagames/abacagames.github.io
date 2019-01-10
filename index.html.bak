@@ -315,6 +315,19 @@ class="contact__form-submit" value="Contact Form" type="submit"></a--><!--/form-
                 name="submit" alt="PayPal - The safer, easier way to pay online!"
                 type="image" border="0"> <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
                 width="1" height="1" border="0"><br>
+              <br>
+              <h2 class="contact__title">Thank you to our sponsors</h2>
+              <img src="file:///C:/Users/PV-Security/Documents/abacagames.github.io/static/images/Sponsors/ArtsEngine%20University%20of%20Michigan.jpg"
+                alt="" title="ArtsEngine" style="width: 350px; height: 106px;">&nbsp;&nbsp;&nbsp;
+              <img src="file:///C:/Users/PV-Security/Documents/abacagames.github.io/static/images/Sponsors/Design%20Lab.jpg"
+                alt="" title="Design Lab">&nbsp;&nbsp;&nbsp; <img src="file:///C:/Users/PV-Security/Documents/abacagames.github.io/static/images/Sponsors/NSF%20Logo.jpg"
+                alt="" title="National Science Foundation" style="width: 269px; height: 140px;">&nbsp;
+              <br>&nbsp;<img src="file:///C:/Users/PV-Security/Documents/abacagames.github.io/static/images/Sponsors/Rosina%20Bierbaum%20Award.jpg"
+                alt="" title="Rosina Bierbaum Award" style="width: 242px; height: 172px;">&nbsp;&nbsp;&nbsp;
+              <img src="file:///C:/Users/PV-Security/Documents/abacagames.github.io/static/images/Sponsors/SEAS.jpg"
+                alt="" title="M SEAS" style="width: 177px; height: 177px;">&nbsp;&nbsp;&nbsp;
+              <img src="file:///C:/Users/PV-Security/Documents/abacagames.github.io/static/images/Sponsors/Univeristy%20of%20Michigan%20Library.jpg"
+                alt="" title="U Mich Library" style="width: 173px; height: 173px;"><br>
             </form>
           </div>
         </center>
