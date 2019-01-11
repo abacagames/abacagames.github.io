@@ -274,7 +274,7 @@ In your html page, add the snippet and callgoog_report_conversion when someone c
               that ensures the game connects players to real science<!--with the facts of climate change-->.
               Zach also leads the game's promotion.</p>
           </div>
-                <ul class="team__member-soc">
+          <ul class="team__member-soc">
             <li><a class="team__member-icon tw" href="https://twitter.com/ChrisKarounos"
 
                 target="_blank">follow me on Twitter</a></li>
@@ -291,6 +291,7 @@ In your html page, add the snippet and callgoog_report_conversion when someone c
             <p class="team__member-descr">Amber is the visual artist for our
               game 10 Degrees. She is a student at University of Michigan who
               has been making game art since she was the ripe age of 10.</p>
+            
           </div>
           <!--ul class="team__member-soc"><li><a class="team__member-icon fb" href="#">My Facebook</a></li><li><a class="team__member-icon tw" href="#">Follow me on twitter</a></li><li><a class="team__member-icon gplus" href="#">My Google+</a></li><li><a class="team__member-icon db" href="#">I am on Dribble</a></li></ul-->
         </div>
