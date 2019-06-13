@@ -77,62 +77,39 @@ In your html page, add the snippet and callgoog_report_conversion when someone c
       </div>
     </header>
     <!-- $Promo section-->
-    <section class="promo js-jumbo" id="home">
+    <section class="promo js-jumbo" id="home" style="padding:45px 0px">
       <h2 class="promo__title"> We are creating a Video Game that will help
-        reverse <span>deforestation
-          <!--stop  Climate Change--></span></h2>
-      <p class="promo__descr"> We are creating a game that is fun and addicting
-        but also
-        <!--teaches concepts of climate change and--> raises money to plant
-<<<<<<< HEAD
-        trees in threatened tropical forest. </p>
-      <p class="promo__descr"><!--to mitigate climate change.--> <br>
-        You missed early access but you can pre-register for our full release on
-        September 3rd, 2019 to get access to exclusive content! <br>
-        <br>
-        <!--For a limited time, we are offering those who fill out the 30 second survey below exclusive access to beta-test our game.-->
+        reverse <span>deforestation&nbsp;</span></h2>
+      <p><br>
       </p>
-      <h2 class="promo__title"> <button onclick="goog_report_conversion ('https://docs.google.com/forms/d/e/1FAIpQLSdLxhOtRvaxjdOnYSlIjGe8JpPo7sBZrZFMsGS4F8rgpHOaWw/viewform')"
+      <p class="promo__descr"> Our upcoming debut game is fun and addicting but
+        also
+        <!--teaches concepts of climate change and--> raises money to plant
+        trees in threatened tropical forest. You missed early access but you can
+        pre-register for our full release on September 3rd, 2019 to get access
+        to exclusive content! <br>
+      </p>
+      <h2 class="promo__title"><button onclick="goog_report_conversion ('https://docs.google.com/forms/d/e/1FAIpQLSdLxhOtRvaxjdOnYSlIjGe8JpPo7sBZrZFMsGS4F8rgpHOaWw/viewform')"
 
-          class="promo__descrlink" style="font-size:33px; font-family: 'Lato',sans-serif; font-weigth: lighter;  color: #FFFFFF; background-color:#57BA47; width: 660px; padding: 10px 0px"
+          class="promo__descrlink" style="font-size:28px; font-family: 'Lato',sans-serif; font-weigth: lighter;  color: #FFFFFF; background-color:#57BA47; width:434px; padding: 10px 0px"
 
           href="https://docs.google.com/forms/d/e/1FAIpQLScbJDD7gmZ5Hkf77CQ86RX_bUBRtdb6z5l6JfV5HSFeN8aJbw/viewform?entry.18444151=Yes"
 
-          id="¨signupbutton¨"> Click Here to Pre-Register!</button></h2>
-=======
-        trees in threatened tropical forest.
-        <!--to mitigate climate change.--> <br>
-        10 Degrees early access is coming soon! Sign up to get access below! <br>
-        <br>
-        <!--For a limited time, we are offering those who fill out the 30 second survey below exclusive access to beta-test our game.-->
-      </p>
-      <h2 class="promo__title"> <button id="¨signupbutton¨" onclick="goog_report_conversion ('https://docs.google.com/forms/d/e/1FAIpQLSdLxhOtRvaxjdOnYSlIjGe8JpPo7sBZrZFMsGS4F8rgpHOaWw/viewform')"
-
-          class="promo__descrlink" style="font-size:33px; font-family: 'Lato',sans-serif; font-weigth: lighter;  color: #FFFFFF; background-color:#57BA47; width: 660px; padding: 10px 0px"
-
-          href="https://docs.google.com/forms/d/e/1FAIpQLSdLxhOtRvaxjdOnYSlIjGe8JpPo7sBZrZFMsGS4F8rgpHOaWw/viewform">
-          Click Here for Early Access!</button></h2>
->>>>>>> 9f69ad0f4fdd957498ce7ba387f166889c2d4869
+          id="¨signupbutton¨">Click Here to Pre-Register!</button></h2>
       <!--for a moble friendly survey. Otherwise fill out the survey below.-->
       <p></p>
       <!--iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdLxhOtRvaxjdOnYSlIjGe8JpPo7sBZrZFMsGS4F8rgpHOaWw/viewform?embedded=true" width="760" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe-->
       <br>
-      <br>
-      <br>
-      <br>
       <p class="promo__descr"> Did you know deforestation causes more carbon
-        dioxide emissions than all world's vehicles combined? Go to Third
-        Millennium Alliance´s <a class="promo__descrlink2" href="http://tmalliance.org"
+        dioxide emissions than all world's vehicles combined? We will be
+        partnering with Third Millennium Alliance to protect and replant these
+        forests through our game. Go to Third Millennium Alliance´s <a class="promo__descrlink2"
 
-          target="_blank"> website </a> to learn how to contribute to tropical
-        reforestation.<br>
+          href="http://tmalliance.org" target="_blank"> website </a> to learn
+        how to contribute to tropical reforestation.<br>
         <a href="http://tmalliance.org"><img src="static/images/tmalliance_Logo_white.png"
 
             alt="Third Millennium Alliance" style="width: 625px; height: 90px;"></a></p>
-      <br>
-      <br>
-      <br>
-      <br>
       <!-- We are recruiting a team member to work as a story writer for our video game
  <a class="promo__btn" style=" margin-top:25px" href="recruitment.html">Join our team</a--><a
 
@@ -143,15 +120,13 @@ In your html page, add the snippet and callgoog_report_conversion when someone c
         <h2 class="portfolio__title"></h2>
         <h2 class="portfolio__title">In Production: 10 Degrees</h2>
         <h2 class="portfolio__title">Platform: Mobile</h2>
-        <p class="portfolio__descr"> In this text-based role-playing game only
-          you can save the world. Every hero starts as an everyday person.
-          Anyone can make the right choices and take the risks required to be a
-          true hero. Save the Great Lakes from the toxic algae! Bigger
-          challenges await. Do you have what it takes? <a class="promo__descrlink2"
+        <p class="portfolio__descr"> In this narrative driven game only you can
+          save the world. Every hero starts as an everyday person. Anyone can
+          make the right choices and take the risks required to be a true hero.
+          Save the Great Lakes from the toxic algae! Bigger challenges await. Do
+          you have what it takes? <a class="promo__descrlink2" href="https://docs.google.com/forms/d/e/1FAIpQLSdLxhOtRvaxjdOnYSlIjGe8JpPo7sBZrZFMsGS4F8rgpHOaWw/viewform"
 
-            href="https://docs.google.com/forms/d/e/1FAIpQLSdLxhOtRvaxjdOnYSlIjGe8JpPo7sBZrZFMsGS4F8rgpHOaWw/viewform"
-
-            target="_blank"> Sign up for early access here!</a> </p>
+            target="_blank">Pre-Register for our September release here!</a> </p>
         <!--h2 class="portfolio__title">Greenhouse Gas Ninja</h2>
     <p class="portfolio__descr"> Why slice fruit when you can slice harmful greenhouse gases? In this mobile swipe game you have to prevent the greenhouse gases from ruining your agricultural crops. Get powerups based on real climate change mitigation actions. In game purchases will go to <a class="promo__descrlink"  href="tmalliance.org"> Third Millennium Alliance</a>. In game purchases can alternatively be bought with pledges to change your real-life habits that will save as much greenhouse gases from the atmosphere as your in game donation. Platform: Mobile</p>        <h2 class="portfolio__title">Forest of the Jama- Coaque</h2>    <p class="portfolio__descr"> Forest of the Jama- Coaque is focused  being grounded in ecology so that in order to advance in the game you learn real strategies that enhance  forest health and productivity. This means players get a intuitive sense of key concepts in conservation like the importance of biodiversity to ecological resilience as well as the difficulty of regenerating a forest to a pre-disturbance state in addition to the importance of corridors and fauna to forest stability.  In addition to building ecologically sound forests, the player must explore the forest floor on foot to find rare items and power ups before lumberjacks harvest the forest  to depletion. Platform: Desktop </p>    <iframe style="font-size:3.8vmax;" frameborder="0" scrolling="no" width="320" height="240" src="https://www.pollshare.com/embed/3442"></iframe-->
         <h2 class="portfolio__title">Gaming for Good</h2>
@@ -297,7 +272,7 @@ In your html page, add the snippet and callgoog_report_conversion when someone c
                 target="_blank">I am on Linkedin</a></li>
           </ul>
         </div>
-        <div class="team__member"><img src="static/images/ava3.jpg" alt="Amber Rentone">
+        <div class="team__member"><img src="static/images/ava3.jpg" alt="Amber Renton">
           <div class="team__member-info">
             <h3 class="team__member-name">Amber Renton<br>
             </h3>
@@ -312,9 +287,9 @@ In your html page, add the snippet and callgoog_report_conversion when someone c
                 target="_blank" title="Amber's Tumblr">I am on Tumblr</a></li>
           </ul>
         </div>
-      </div>
-      <!--ul class="team__member-soc"><li><a class="team__member-icon fb" href="#">My Facebook</a></li><li><a class="team__member-icon tw" href="#">Follow me on twitter</a></li><li><a class="team__member-icon gplus" href="#">My Google+</a></li><li><a class="team__member-icon db" href="#">I am on Dribble</a></li></ul-->
-      <div class="team__member">
+     
+     
+      <div class="team__member"><img src="static/images/ava6.jpg" alt="Amber Renton">
         <div class="team__member-info">
           <h3 class="team__member-name"> Andrew Lipian </h3>
           <span class="team__member-role">&nbsp; Lead Music Composer</span>
@@ -322,7 +297,22 @@ In your html page, add the snippet and callgoog_report_conversion when someone c
             as a classically trained singer, opera director and video game music
             composer to make 10 Degrees sound amazing. </p>
         </div>
+         <ul class="team__member-soc">
+           <li><a class="team__member-icon db" href="https://www.andrewlipian.com/"
+
+                target="_blank">My personal website</a></li>
+            <li><a class="team__member-icon db" href="https://www.operamusica.com/artist/andrew-lipian/#biography"
+
+                target="_blank">My Opera Musica page</a></li>
+            <li><a class="team__member-icon db" href="https://www.linkedin.com/in/andrew-lipian-93bba8a9/"
+
+                target="_blank">I am on Linkedin</a></li>
+           
+
+          </ul>
       </div>
+        
+    </div>
       <!--div class="team__member-info">
         <h3 class="team__member-name">Jatin  Gupta </h3><span class="team__member-role">Cofounder, User Experience </span>      <p class="team__member-descr"> Jatin is leading the design process. Jatin worked  creating software and video games before  studying Human-Computer Interaction at UMich. </p></div-->
       <!--ul class="team__member-soc"><li><a class="team__member-icon fb" href="#">My Facebook</a></li><li><a class="team__member-icon tw" href="#">Follow me on twitter</a></li><li><a class="team__member-icon gplus" href="#">My Google+</a></li><li><a class="team__member-icon db" href="#">I am on Dribble</a></li></ul-->
@@ -343,7 +333,6 @@ In your html page, add the snippet and callgoog_report_conversion when someone c
             <h3 class="team__member-name"> Darin Stockdill </h3>
             <span class="team__member-role">Education Advisor</span>
             <p class="team__member-descr">Darin Stockdill is the design
-<<<<<<< HEAD
               coordinator for the University of Michigan’s Center for Education
               Design, Evaluation, and Research (CEDER). </p>
           </div>
@@ -356,17 +345,6 @@ In your html page, add the snippet and callgoog_report_conversion when someone c
               Center for Education Design, Evaluation, and Research (CEDER).</p>
           </div>
         </div>
-=======
-              coordinator for the University of Michigan’s Center for
-              Education Design, Evaluation, and Research (CEDER). </p>
-          </div>
-        </div>
-       <div class="team__member">         
-         <div class="team__member-info">
-           <h3 class="team__member-name">Nathan Phipps</h3>
-           <span class="team__member-role">Education Advisor</span>       
-           <p class="team__member-descr">Nate is managing director of the              Center for Education Design, Evaluation, and Research (CEDER).</p>          </div>        </div>
->>>>>>> 9f69ad0f4fdd957498ce7ba387f166889c2d4869
       </div>
       --&gt; </section>
     <!-- $Contact section-->
