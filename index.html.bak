@@ -18,8 +18,9 @@
     <link rel="stylesheet" href="static/css/screen.min.css">
     <link rel="stylesheet" href="static/css/custom.min.css">
   </head>
-  <body>.t&nbsp;
-    <script type="text/javascript">/* <![CDATA[ */
+  <body><br>
+    <p>
+      <script type="text/javascript">/* <![CDATA[ */
   goog_snippet_vars = function() {
     var w = window;
     w.google_conversion_id = 964409357;
@@ -43,7 +44,7 @@
 }
 /* ]]> */
 </script> <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js">
-</script><!-- $Page header-->
+</script><!-- $Page header--> </p>
     <header class="page-header js-header" style="margin-top: -18px; height: 92px;">
       <div class="container">
         <script>
@@ -92,10 +93,11 @@
 
             href="https://play.google.com/store/apps/details?id=com.AbacaGames.TenDegrees"
 
-            id="¨signupbutton¨">Click Here for Android Through Google Play
-            Store</button></h2>
+            id="¨signupbutton¨">Click Here for Android Through Google Play Store</button></h2>
       </a>
-      <!-- ios test flight Open beta--> <a href="https://testflight.apple.com/join/k3taMzBD" target="_blank">
+      <!-- ios test flight Open beta--> <a href="https://testflight.apple.com/join/k3taMzBD"
+
+        target="_blank">
         <h2 class="promo__title"><button onclick="goog_report_conversion ('https://docs.google.com/forms/d/e/1FAIpQLSdLxhOtRvaxjdOnYSlIjGe8JpPo7sBZrZFMsGS4F8rgpHOaWw/viewform')"
 
             class="promo__descrlink" style="font-size:28px; font-family: 'Lato',sans-serif; font-weigth: lighter;  color: #FFFFFF; background-color:#57BA47; margin: 0px; width:434px; padding: 10px 0px"
@@ -393,7 +395,16 @@
 
               alt="UN Environment Young Champions of the Earth" title="UN Environment Young Champions of the Earth"
 
-              style="width: 390px; height: 81px; margin: 22px"></a><br>
+              style="width: 390px; height: 81px; margin: 22px"></a>
+          
+          <a href="https://www.secondwavemedia.com/concentrate/features/abacagames0516.aspx"
+
+            title="Link to our article in Concentrate Magazine" target="_blank"><img
+
+              src="static/images/featured%20in/logo-concentrate.png" alt="concentrate"
+
+              title="Concentrate Magazine" style="width: 390px; height: 81px; margin: 22px 0px">
+          </a> <br>
           <br>
           <br>
           <br>
