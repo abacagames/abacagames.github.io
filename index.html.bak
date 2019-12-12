@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="static/css/screen.min.css">
     <link rel="stylesheet" href="static/css/custom.min.css">
   </head>
-  <body>--<br>
+  <body>s--<br>
     <p>
       <script type="text/javascript">/* <![CDATA[ */
   goog_snippet_vars = function() {
@@ -84,8 +84,8 @@
         generate money to plant real trees just by playing it.&nbsp; </p>
       <!----a
       href="https://play.google.com/store/apps/details?id=com.AbacaGames.TenDegrees"      target="_blank"--&gt;      <h2 class="promo__title"><button class="promo__descrlink" style="font-size:28px; font-family: 'Lato',sans-serif; font-weigth: lighter;  color: #FFFFFF; background-color:#57BA47; margin: 0px; width:434px; padding: 10px 0px;"          href="https://play.google.com/store/apps/details?id=com.AbacaGames.TenDegrees"          id="¨signupbutton¨">Click Here for Android Through Google          Play Store</button></h2>      <!-- ios test flight Open beta-->
-      <iframe src="https://free.timeanddate.com/countdown/i71zhqew/n84/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs300/szw448/szh189/tatTime%20Until%20Launch/tac000/tptNow%20Available%21/tpc000/mat%20/mac000/mpc000/iso2020-01-01T00:00:00/pd2"
-        allowtransparency="true" width="674" height="202" frameborder="0"></iframe>
+      <iframe src="https://free.timeanddate.com/countdown/i72b6w2v/n179/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cacfff/cpc000/pct/tcfff/fs100/szw448/szh189/tat10%20Degrees%20Game%20Launches/tacfff/tpt10%20Degrees%20Has%20Launched%21/tpcfff/matNew%20Years%20Day%202020%20In%3A/macfff/mpc000/iso2020-01-01T00:00:01/pa4"
+        allowtransparency="true" height="102" frameborder="0" width="353"></iframe>
       <br>
       <br>
       <br>
@@ -129,7 +129,7 @@
         <h2 class="portfolio__title">In Production: 10 Degrees</h2>
         <h2 class="portfolio__title">Platform: Mobile</h2>
         <iframe src="https://www.youtube.com/embed/hEisxE51t58" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+          allowfullscreen="" height="315" frameborder="0" width="560"></iframe>
         <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"
           id="docs-internal-guid-a5f5f866-7fff-7f10-4093-e815e43deccb"><span>A
             choose-your-own adventure puzzle game. Play each day and plant away.
@@ -429,7 +429,7 @@ class="contact__form-submit" value="Contact Form" type="submit"></a--><!--/form-
 " type="hidden"> <input src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"
                 name="submit" alt="PayPal - The safer, easier way to pay online!"
                 type="image" border="0"> <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
-                width="1" height="1" border="0"><br>
+                height="1" width="1" border="0"><br>
               <br>
             </form>
           </div>
