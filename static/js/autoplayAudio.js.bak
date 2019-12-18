@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+
+      title="Wrap Long Lines">
+  </head>
+  <body>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <pre> $( document ).ready(function(){
+            var x = document.getElementById("player");
+						
+          	function playSong() {
+            	  x.play();
+            }
+          
+            $('body').click(function(){
+             	 playSong();
+            }); 
+
+          });
+</pre>
+    <br>
+  </body>
+</html>
