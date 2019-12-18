@@ -57,12 +57,9 @@
   ga('send', 'pageview');
 
 </script> <iframe src="static/silence.mp3" allow="autoplay" id="audio" style="display:none"></iframe>
-        <audio id="player"  autoplay="autoplay" loop="loop">
-          <source src="static/10%20Deg%20Countdown%20Clock.mp3" type="audio/mp3">
-        </audio>
-        
-       
-        
+        <audio id="player" autoplay="autoplay" loop="loop"> <source src="static/10%20Deg%20Countdown%20Clock.mp3"
+
+            type="audio/mp3"> </audio>
         <div class="page-header__logo">
           <h1 style="text-transform: none;
   font-style: italic;  color: #57BA47;"><!-- implement this color for all other green colors -->&nbsp;&nbsp;&nbsp;&nbsp;
@@ -522,7 +519,7 @@ class="contact__form-submit" value="Contact Form" type="submit"></a--><!--/form-
           to top</a></div>
     </footer>
     <script src="static/js/body.min.js"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="static/js/autoplayAudio.js" type="text/javascript"></script>
   </body>
 </html>
