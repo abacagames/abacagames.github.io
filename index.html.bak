@@ -57,8 +57,8 @@
   ga('send', 'pageview');
 
 </script>
-        <!--<iframe src="static/silence.mp3" allow="autoplay" id="audio" style="display:none"></iframe>-->
-        <audio id="player" autoplay="autoplay" loop="loop"> <source src="static/10%20Deg%20Countdown%20Clock.mp3"
+        <!--iframe src="static/silence.mp3" allow="autoplay" id="audio" style="display:none"></iframe-->
+        <audio id="player" style="max-width: 300px; margin-left:10px" autoplay="autoplay" loop="loop"> <source src="static/10%20Deg%20Countdown%20Clock.mp3"
 
             type="audio/mp3"> </audio>
         <div class="page-header__logo">
