@@ -56,11 +56,11 @@
   ga('create', 'UA-53533318-5', 'auto');
   ga('send', 'pageview');
 
-</script>
-        <!--iframe src="static/silence.mp3" allow="autoplay" id="audio" style="display:none"></iframe-->
-        <audio id="player" style="max-width: 300px; margin-left:10px" autoplay="autoplay" loop="loop"> <source src="static/10%20Deg%20Countdown%20Clock.mp3"
+</script> <!--iframe src="static/silence.mp3" allow="autoplay" id="audio" style="display:none"></iframe-->
+        <audio id="player" style="max-width: 300px; margin-left:10px" autoplay="autoplay"
 
-            type="audio/mp3"> </audio>
+          loop="loop"> <source src="static/10%20Deg%20Countdown%20Clock.mp3" type="audio/mp3">
+        </audio>
         <div class="page-header__logo">
           <h1 style="text-transform: none;
   font-style: italic;  color: #57BA47;"><!-- implement this color for all other green colors -->&nbsp;&nbsp;&nbsp;&nbsp;
@@ -92,9 +92,14 @@
       href="https://play.google.com/store/apps/details?id=com.AbacaGames.TenDegrees"      target="_blank"--&gt;      <h2 class="promo__title"><button class="promo__descrlink" style="font-size:28px; font-family: 'Lato',sans-serif; font-weigth: lighter;  color: #FFFFFF; background-color:#57BA47; margin: 0px; width:434px; padding: 10px 0px;"          href="https://play.google.com/store/apps/details?id=com.AbacaGames.TenDegrees"          id="¨signupbutton¨">Click Here for Android Through Google          Play Store</button></h2>      <!-- ios test flight Open beta-->
       <iframe src="https://free.timeanddate.com/countdown/i72b6w2v/n179/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cacfff/cpc000/pct/tcfff/fs100/szw448/szh189/tat10%20Degrees%20Game%20Launches/tacfff/tpt10%20Degrees%20Has%20Launched%21/tpcfff/matNew%20Years%20Day%202020%20In%3A/macfff/mpc000/iso2020-01-01T00:00:01/pa4"
 
-        allowtransparency="true" height="102" frameborder="0" width="353"></iframe>
+        allowtransparency="true" width="353" height="102" frameborder="0"></iframe>
       <br>
       <br>
+      <a href="https://play.google.com/store/apps/details?id=com.AbacaGames.TenDegrees"
+
+        title="Pre-Register" target="_blank"><img src="file:///C:/Users/PV-Security/Downloads/pre-register-on-google-play.png"
+
+          alt="" title="Pre Register" style="width: 450px; height: 134px;"></a><br>
       <br>
       <h1>2020 Vision</h1>
       <br>
@@ -108,7 +113,7 @@
         and we can feel powerless. Casting our vision into the future, sometimes
         it doesn't seem too bright -- but there is a way to make an impact! Join
         us, Abaca Games, and by playing 10 Degrees, you can game for good! While
-        you immerse yourself in a gripping story and addicting play, Third
+        you immerse yourself in a gripping story and immersive play, Third
         Millennium Alliance will be planting trees in deforested areas -- all
         because you chose GAMING as your resolution. With this sort of action,
         it's not too lofty or unrealistic. In fact, it's as easy as booting up
@@ -506,7 +511,7 @@ class="contact__form-submit" value="Contact Form" type="submit"></a--><!--/form-
 
                 type="image" border="0"> <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
 
-                height="1" width="1" border="0"><br>
+                width="1" height="1" border="0"><br>
               <br>
             </form>
           </div>
