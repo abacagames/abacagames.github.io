@@ -144,7 +144,7 @@
         <h2 class="portfolio__title">Platform: IOS and Android</h2>
         <br>
         <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-        <div class="embed-container"><iframe src="https://www.youtube.com/watch?v=hEisxE51t58"
+        <div class="embed-container"><iframe src="https://www.youtube.com/embed/hEisxE51t58"
             allowfullscreen="" frameborder="0"></iframe></div>
         <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"
           id="docs-internal-guid-a5f5f866-7fff-7f10-4093-e815e43deccb"><span> <br>
