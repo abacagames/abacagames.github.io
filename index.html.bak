@@ -98,7 +98,6 @@
         allowtransparency="true" width="353" height="102" frameborder="10"></iframe>
       <br>
       <br>
-      <br>
       <a href="https://play.google.com/store/apps/details?id=com.AbacaGames.TenDegrees"
         title="Google Play Store" target="_blank"><img src="static/images/Play-Store-Logo-2.png"
           title="Google Play" style="width: 396px; height: 126px;"></a><br>
@@ -109,7 +108,7 @@
       <br>
       <br>
       <h1>2020 Vision</h1>
-      <br>
+      &nbsp;<br>
       <p class="promo__descrLong">The New Year bestows time for reflection, and
         reinvigoration. whether it's a New Years Resolution or just a New
         Attitude, we're willing to bet you're the sort of person who is out to
